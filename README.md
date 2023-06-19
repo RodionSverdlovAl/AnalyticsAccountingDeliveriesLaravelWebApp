@@ -16,22 +16,17 @@
 написать php artisan migrate:fresh --seed <br>
 php artisan serve
 
-## Использование
-
-Использовать можно только как ознакомление с моим резюме (не для комерческого использования)
-Писал на заказ для дипломного проекта
-
 ## Скриншоты
 
 В этом разделе приведены скриншоты работы программы.
 
-![Страница бренда](https://github.com/RodionSverdlovAl/SalesAnalyticsAppLaravel/blob/main/screenshots/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B0%201%20%D1%87%D0%B0%D1%81%D1%82%D1%8C.jpg)
+![Страница бренда](https://github.com/RodionSverdlovAl/BrandsWebAppLaravel/blob/master/screenshots/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B0%201%20%D1%87%D0%B0%D1%81%D1%82%D1%8C.jpg)
 _Страница бренда._
 
-![Страница бренда 2 часть](https://github.com/RodionSverdlovAl/SalesAnalyticsAppLaravel/blob/main/screenshots/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B0%203%20%D1%87%D0%B0%D1%81%D1%82%D1%8C.jpg)
+![Страница бренда 2 часть](https://github.com/RodionSverdlovAl/BrandsWebAppLaravel/blob/master/screenshots/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D0%B1%D1%80%D0%B5%D0%BD%D0%B4%D0%B0%203%20%D1%87%D0%B0%D1%81%D1%82%D1%8C.jpg)
 _Страница бренда 2 часть._
 
-![Страница статистики](https://github.com/RodionSverdlovAl/SalesAnalyticsAppLaravel/blob/main/screenshots/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%202%20%D1%87%D0%B0%D1%81%D1%82%D1%8C.jpg)
+![Страница статистики](https://github.com/RodionSverdlovAl/BrandsWebAppLaravel/blob/master/screenshots/%D0%A1%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0%20%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%81%D1%82%D0%B8%D0%BA%D0%B8%202%20%D1%87%D0%B0%D1%81%D1%82%D1%8C.jpg)
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
